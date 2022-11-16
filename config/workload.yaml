@@ -17,4 +17,4 @@ spec:
       ref:
         branch: main
       url: https://github.com/fabianbrash/tanzu-java-11-web-app.git
-    subPath: tanzu-java-11-web-app
+    #subPath: tanzu-java-11-web-app
